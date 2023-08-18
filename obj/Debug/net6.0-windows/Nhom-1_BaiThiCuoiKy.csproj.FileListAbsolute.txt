@@ -1,0 +1,134 @@
+D:\Microsoft VS Code 2022\Source\repos\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\bin\Debug\net6.0-windows\Nhom-1_BaiThiCuoiKy.exe
+D:\Microsoft VS Code 2022\Source\repos\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\bin\Debug\net6.0-windows\Nhom-1_BaiThiCuoiKy.deps.json
+D:\Microsoft VS Code 2022\Source\repos\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\bin\Debug\net6.0-windows\Nhom-1_BaiThiCuoiKy.runtimeconfig.json
+D:\Microsoft VS Code 2022\Source\repos\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\bin\Debug\net6.0-windows\Nhom-1_BaiThiCuoiKy.dll
+D:\Microsoft VS Code 2022\Source\repos\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\bin\Debug\net6.0-windows\Nhom-1_BaiThiCuoiKy.pdb
+D:\Microsoft VS Code 2022\Source\repos\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\Nhom-1_BaiThiCuoiKy.csproj.AssemblyReference.cache
+D:\Microsoft VS Code 2022\Source\repos\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\Nhom_1_BaiThiCuoiKy.Form1.resources
+D:\Microsoft VS Code 2022\Source\repos\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\Nhom_1_BaiThiCuoiKy.FormLogin.resources
+D:\Microsoft VS Code 2022\Source\repos\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\Nhom-1_BaiThiCuoiKy.csproj.GenerateResource.cache
+D:\Microsoft VS Code 2022\Source\repos\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\Nhom-1_BaiThiCuoiKy.GeneratedMSBuildEditorConfig.editorconfig
+D:\Microsoft VS Code 2022\Source\repos\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\Nhom-1_BaiThiCuoiKy.AssemblyInfoInputs.cache
+D:\Microsoft VS Code 2022\Source\repos\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\Nhom-1_BaiThiCuoiKy.AssemblyInfo.cs
+D:\Microsoft VS Code 2022\Source\repos\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\Nhom-1_BaiThiCuoiKy.csproj.CoreCompileInputs.cache
+D:\Microsoft VS Code 2022\Source\repos\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\Nhom-1_BaiThiCuoiKy.dll
+D:\Microsoft VS Code 2022\Source\repos\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\refint\Nhom-1_BaiThiCuoiKy.dll
+D:\Microsoft VS Code 2022\Source\repos\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\Nhom-1_BaiThiCuoiKy.pdb
+D:\Microsoft VS Code 2022\Source\repos\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\Nhom-1_BaiThiCuoiKy.genruntimeconfig.cache
+D:\Microsoft VS Code 2022\Source\repos\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\ref\Nhom-1_BaiThiCuoiKy.dll
+D:\Microsoft VS Code 2022\Source\repos\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\Nhom_1_BaiThiCuoiKy.FormAdmin.resources
+D:\Microsoft VS Code 2022\Source\repos\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\Nhom_1_BaiThiCuoiKy.FormUser.resources
+D:\Microsoft VS Code 2022\Source\repos\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\Nhom_1_BaiThiCuoiKy.Properties.Resources.resources
+D:\Microsoft VS Code 2022\Source\repos\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\Nhom_1_BaiThiCuoiKy.ThongTinNV.resources
+D:\Microsoft VS Code 2022\Source\repos\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\Nhom_1_BaiThiCuoiKy.FormTTKH.resources
+D:\Microsoft VS Code 2022\Source\repos\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\Nhom_1_BaiThiCuoiKy.FormMenu.resources
+C:\Users\pc\Documents\Zalo Received Files\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\bin\Debug\net6.0-windows\Nhom-1_BaiThiCuoiKy.exe
+C:\Users\pc\Documents\Zalo Received Files\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\bin\Debug\net6.0-windows\Nhom-1_BaiThiCuoiKy.deps.json
+C:\Users\pc\Documents\Zalo Received Files\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\bin\Debug\net6.0-windows\Nhom-1_BaiThiCuoiKy.runtimeconfig.json
+C:\Users\pc\Documents\Zalo Received Files\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\bin\Debug\net6.0-windows\Nhom-1_BaiThiCuoiKy.dll
+C:\Users\pc\Documents\Zalo Received Files\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\bin\Debug\net6.0-windows\Nhom-1_BaiThiCuoiKy.pdb
+C:\Users\pc\Documents\Zalo Received Files\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\Nhom-1_BaiThiCuoiKy.csproj.AssemblyReference.cache
+C:\Users\pc\Documents\Zalo Received Files\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\Nhom_1_BaiThiCuoiKy.Form1.resources
+C:\Users\pc\Documents\Zalo Received Files\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\Nhom_1_BaiThiCuoiKy.FormAdmin.resources
+C:\Users\pc\Documents\Zalo Received Files\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\Nhom_1_BaiThiCuoiKy.FormLogin.resources
+C:\Users\pc\Documents\Zalo Received Files\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\Nhom_1_BaiThiCuoiKy.FormTTKH.resources
+C:\Users\pc\Documents\Zalo Received Files\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\Nhom_1_BaiThiCuoiKy.FormUser.resources
+C:\Users\pc\Documents\Zalo Received Files\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\Nhom_1_BaiThiCuoiKy.FormMenu.resources
+C:\Users\pc\Documents\Zalo Received Files\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\Nhom_1_BaiThiCuoiKy.Properties.Resources.resources
+C:\Users\pc\Documents\Zalo Received Files\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\Nhom_1_BaiThiCuoiKy.ThongTinNV.resources
+C:\Users\pc\Documents\Zalo Received Files\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\Nhom-1_BaiThiCuoiKy.csproj.GenerateResource.cache
+C:\Users\pc\Documents\Zalo Received Files\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\Nhom-1_BaiThiCuoiKy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Documents\Zalo Received Files\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\Nhom-1_BaiThiCuoiKy.AssemblyInfoInputs.cache
+C:\Users\pc\Documents\Zalo Received Files\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\Nhom-1_BaiThiCuoiKy.AssemblyInfo.cs
+C:\Users\pc\Documents\Zalo Received Files\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\Nhom-1_BaiThiCuoiKy.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\Zalo Received Files\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\Nhom-1_BaiThiCuoiKy.dll
+C:\Users\pc\Documents\Zalo Received Files\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\refint\Nhom-1_BaiThiCuoiKy.dll
+C:\Users\pc\Documents\Zalo Received Files\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\Nhom-1_BaiThiCuoiKy.pdb
+C:\Users\pc\Documents\Zalo Received Files\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\Nhom-1_BaiThiCuoiKy.genruntimeconfig.cache
+C:\Users\pc\Documents\Zalo Received Files\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\ref\Nhom-1_BaiThiCuoiKy.dll
+C:\Users\tranp\Desktop\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\bin\Debug\net6.0-windows\Nhom-1_BaiThiCuoiKy.exe
+C:\Users\tranp\Desktop\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\bin\Debug\net6.0-windows\Nhom-1_BaiThiCuoiKy.deps.json
+C:\Users\tranp\Desktop\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\bin\Debug\net6.0-windows\Nhom-1_BaiThiCuoiKy.runtimeconfig.json
+C:\Users\tranp\Desktop\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\bin\Debug\net6.0-windows\Nhom-1_BaiThiCuoiKy.dll
+C:\Users\tranp\Desktop\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\bin\Debug\net6.0-windows\Nhom-1_BaiThiCuoiKy.pdb
+C:\Users\tranp\Desktop\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\Nhom-1_BaiThiCuoiKy.csproj.AssemblyReference.cache
+C:\Users\tranp\Desktop\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\Nhom_1_BaiThiCuoiKy.Form1.resources
+C:\Users\tranp\Desktop\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\Nhom_1_BaiThiCuoiKy.FormAdmin.resources
+C:\Users\tranp\Desktop\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\Nhom_1_BaiThiCuoiKy.FormLogin.resources
+C:\Users\tranp\Desktop\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\Nhom_1_BaiThiCuoiKy.FormTTKH.resources
+C:\Users\tranp\Desktop\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\Nhom_1_BaiThiCuoiKy.FormUser.resources
+C:\Users\tranp\Desktop\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\Nhom_1_BaiThiCuoiKy.FormMenu.resources
+C:\Users\tranp\Desktop\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\Nhom_1_BaiThiCuoiKy.Properties.Resources.resources
+C:\Users\tranp\Desktop\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\Nhom_1_BaiThiCuoiKy.ThongTinNV.resources
+C:\Users\tranp\Desktop\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\Nhom-1_BaiThiCuoiKy.csproj.GenerateResource.cache
+C:\Users\tranp\Desktop\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\Nhom-1_BaiThiCuoiKy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tranp\Desktop\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\Nhom-1_BaiThiCuoiKy.AssemblyInfoInputs.cache
+C:\Users\tranp\Desktop\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\Nhom-1_BaiThiCuoiKy.AssemblyInfo.cs
+C:\Users\tranp\Desktop\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\Nhom-1_BaiThiCuoiKy.csproj.CoreCompileInputs.cache
+C:\Users\tranp\Desktop\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\Nhom-1_BaiThiCuoiKy.dll
+C:\Users\tranp\Desktop\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\refint\Nhom-1_BaiThiCuoiKy.dll
+C:\Users\tranp\Desktop\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\Nhom-1_BaiThiCuoiKy.pdb
+C:\Users\tranp\Desktop\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\Nhom-1_BaiThiCuoiKy.genruntimeconfig.cache
+C:\Users\tranp\Desktop\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\ref\Nhom-1_BaiThiCuoiKy.dll
+C:\Users\tranp\Desktop\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\Nhom_1_BaiThiCuoiKy.FormGiohang.resources
+D:\Microsoft VS Code 2022\Source\repos\Githup\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\bin\Debug\net6.0-windows\Nhom-1_BaiThiCuoiKy.exe
+D:\Microsoft VS Code 2022\Source\repos\Githup\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\bin\Debug\net6.0-windows\Nhom-1_BaiThiCuoiKy.deps.json
+D:\Microsoft VS Code 2022\Source\repos\Githup\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\bin\Debug\net6.0-windows\Nhom-1_BaiThiCuoiKy.runtimeconfig.json
+D:\Microsoft VS Code 2022\Source\repos\Githup\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\bin\Debug\net6.0-windows\Nhom-1_BaiThiCuoiKy.dll
+D:\Microsoft VS Code 2022\Source\repos\Githup\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\bin\Debug\net6.0-windows\Nhom-1_BaiThiCuoiKy.pdb
+D:\Microsoft VS Code 2022\Source\repos\Githup\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\Nhom-1_BaiThiCuoiKy.csproj.AssemblyReference.cache
+D:\Microsoft VS Code 2022\Source\repos\Githup\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\Nhom_1_BaiThiCuoiKy.Form1.resources
+D:\Microsoft VS Code 2022\Source\repos\Githup\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\Nhom_1_BaiThiCuoiKy.FormAdmin.resources
+D:\Microsoft VS Code 2022\Source\repos\Githup\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\Nhom_1_BaiThiCuoiKy.FormGiohang.resources
+D:\Microsoft VS Code 2022\Source\repos\Githup\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\Nhom_1_BaiThiCuoiKy.FormLogin.resources
+D:\Microsoft VS Code 2022\Source\repos\Githup\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\Nhom_1_BaiThiCuoiKy.FormTTKH.resources
+D:\Microsoft VS Code 2022\Source\repos\Githup\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\Nhom_1_BaiThiCuoiKy.FormUser.resources
+D:\Microsoft VS Code 2022\Source\repos\Githup\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\Nhom_1_BaiThiCuoiKy.FormMenu.resources
+D:\Microsoft VS Code 2022\Source\repos\Githup\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\Nhom_1_BaiThiCuoiKy.Properties.Resources.resources
+D:\Microsoft VS Code 2022\Source\repos\Githup\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\Nhom_1_BaiThiCuoiKy.ThongTinNV.resources
+D:\Microsoft VS Code 2022\Source\repos\Githup\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\Nhom-1_BaiThiCuoiKy.csproj.GenerateResource.cache
+D:\Microsoft VS Code 2022\Source\repos\Githup\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\Nhom-1_BaiThiCuoiKy.GeneratedMSBuildEditorConfig.editorconfig
+D:\Microsoft VS Code 2022\Source\repos\Githup\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\Nhom-1_BaiThiCuoiKy.AssemblyInfoInputs.cache
+D:\Microsoft VS Code 2022\Source\repos\Githup\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\Nhom-1_BaiThiCuoiKy.AssemblyInfo.cs
+D:\Microsoft VS Code 2022\Source\repos\Githup\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\Nhom-1_BaiThiCuoiKy.csproj.CoreCompileInputs.cache
+D:\Microsoft VS Code 2022\Source\repos\Githup\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\Nhom-1_BaiThiCuoiKy.dll
+D:\Microsoft VS Code 2022\Source\repos\Githup\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\refint\Nhom-1_BaiThiCuoiKy.dll
+D:\Microsoft VS Code 2022\Source\repos\Githup\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\Nhom-1_BaiThiCuoiKy.pdb
+D:\Microsoft VS Code 2022\Source\repos\Githup\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\Nhom-1_BaiThiCuoiKy.genruntimeconfig.cache
+D:\Microsoft VS Code 2022\Source\repos\Githup\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\ref\Nhom-1_BaiThiCuoiKy.dll
+I:\DATA\Study\LT Windows\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\Nhom-1_BaiThiCuoiKy.csproj.AssemblyReference.cache
+I:\DATA\Study\LT Windows\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\Nhom_1_BaiThiCuoiKy.Form1.resources
+I:\DATA\Study\LT Windows\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\Nhom_1_BaiThiCuoiKy.FormAdmin.resources
+I:\DATA\Study\LT Windows\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\Nhom_1_BaiThiCuoiKy.FormGiohang.resources
+I:\DATA\Study\LT Windows\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\Nhom_1_BaiThiCuoiKy.FormLogin.resources
+I:\DATA\Study\LT Windows\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\Nhom_1_BaiThiCuoiKy.FormTTKH.resources
+I:\DATA\Study\LT Windows\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\Nhom_1_BaiThiCuoiKy.FormUser.resources
+I:\DATA\Study\LT Windows\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\Nhom_1_BaiThiCuoiKy.FormMenu.resources
+I:\DATA\Study\LT Windows\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\Nhom_1_BaiThiCuoiKy.Properties.Resources.resources
+I:\DATA\Study\LT Windows\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\Nhom_1_BaiThiCuoiKy.ThongTinNV.resources
+I:\DATA\Study\LT Windows\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\Nhom-1_BaiThiCuoiKy.csproj.GenerateResource.cache
+I:\DATA\Study\LT Windows\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\Nhom-1_BaiThiCuoiKy.GeneratedMSBuildEditorConfig.editorconfig
+I:\DATA\Study\LT Windows\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\Nhom-1_BaiThiCuoiKy.AssemblyInfoInputs.cache
+I:\DATA\Study\LT Windows\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\Nhom-1_BaiThiCuoiKy.AssemblyInfo.cs
+I:\DATA\Study\LT Windows\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\Nhom-1_BaiThiCuoiKy.csproj.CoreCompileInputs.cache
+I:\DATA\Study\LT Windows\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\Nhom-1_BaiThiCuoiKy.dll
+I:\DATA\Study\LT Windows\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\refint\Nhom-1_BaiThiCuoiKy.dll
+I:\DATA\Study\LT Windows\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\Nhom-1_BaiThiCuoiKy.pdb
+E:\DATA\Study\LT Windows\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\Nhom-1_BaiThiCuoiKy.csproj.AssemblyReference.cache
+E:\DATA\Study\LT Windows\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\Nhom_1_BaiThiCuoiKy.Form1.resources
+E:\DATA\Study\LT Windows\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\Nhom_1_BaiThiCuoiKy.FormAdmin.resources
+E:\DATA\Study\LT Windows\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\Nhom_1_BaiThiCuoiKy.FormGiohang.resources
+E:\DATA\Study\LT Windows\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\Nhom_1_BaiThiCuoiKy.FormLogin.resources
+E:\DATA\Study\LT Windows\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\Nhom_1_BaiThiCuoiKy.FormTTKH.resources
+E:\DATA\Study\LT Windows\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\Nhom_1_BaiThiCuoiKy.FormUser.resources
+E:\DATA\Study\LT Windows\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\Nhom_1_BaiThiCuoiKy.FormMenu.resources
+E:\DATA\Study\LT Windows\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\Nhom_1_BaiThiCuoiKy.Properties.Resources.resources
+E:\DATA\Study\LT Windows\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\Nhom_1_BaiThiCuoiKy.ThongTinNV.resources
+E:\DATA\Study\LT Windows\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\Nhom-1_BaiThiCuoiKy.csproj.GenerateResource.cache
+E:\DATA\Study\LT Windows\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\Nhom-1_BaiThiCuoiKy.GeneratedMSBuildEditorConfig.editorconfig
+E:\DATA\Study\LT Windows\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\Nhom-1_BaiThiCuoiKy.AssemblyInfoInputs.cache
+E:\DATA\Study\LT Windows\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\Nhom-1_BaiThiCuoiKy.AssemblyInfo.cs
+E:\DATA\Study\LT Windows\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\Nhom-1_BaiThiCuoiKy.csproj.CoreCompileInputs.cache
+E:\DATA\Study\LT Windows\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\Nhom-1_BaiThiCuoiKy.dll
+E:\DATA\Study\LT Windows\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\refint\Nhom-1_BaiThiCuoiKy.dll
+E:\DATA\Study\LT Windows\Nhom-1_BaiThiCuoiKy\Nhom-1_BaiThiCuoiKy\obj\Debug\net6.0-windows\Nhom-1_BaiThiCuoiKy.pdb
